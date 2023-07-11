@@ -1,0 +1,4 @@
+# metodo que usan los servidores hibridos de fortnite injectando un dll en el proceso del juego para redirigir los likns de la api de fortnite tu host modificado 
+# esto debe realizarse junto con un desactivador del anticheat del mismo juego lo cual los archivos FortniteClient-Win64-Shipping_BE y FortniteClient-Win64-Shipping_EAC encontrados en la carpeta win64
+# pueden ser disfrazados con una applicacion de consola y remplazados en el directorio de los archivos ya mencionados esto permitira que al momento de injectar el dll este no sea detectado por el antichat de fortnite
+# como un complemento estos servidores son compartidos mediante comunidades de discord para que la gente los descargue y su estetica se reconoce mas por launcher creados por los desarrolladores de estos servidores hibridos
